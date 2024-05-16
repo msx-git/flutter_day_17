@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_day_17/pages/main/main_page.dart';
 
+import 'models/product.dart';
+
 void main() {
   runApp(const MyApp());
 }
